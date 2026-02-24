@@ -1,0 +1,502 @@
+[
+    {
+        "name": "requests",
+        "description": "Python HTTP for Humans.",
+        "package_manager_url": "https://pypi.org/project/requests/"
+    },
+    {
+        "name": "pandas",
+        "description": "Powerful data structures for data analysis, time series, and statistics",
+        "package_manager_url": "https://pypi.org/project/pandas/"
+    },
+    {
+        "name": "numpy",
+        "description": "Fundamental package for array computing in Python",
+        "package_manager_url": "https://pypi.org/project/numpy/"
+    },
+    {
+        "name": "matplotlib",
+        "description": "Python plotting package",
+        "package_manager_url": "https://pypi.org/project/matplotlib/"
+    },
+    {
+        "name": "scikit-learn",
+        "description": "A set of python modules for machine learning and data mining",
+        "package_manager_url": "https://pypi.org/project/scikit-learn/"
+    },
+    {
+        "name": "pytest",
+        "description": "pytest: simple powerful testing with Python",
+        "package_manager_url": "https://pypi.org/project/pytest/"
+    },
+    {
+        "name": "Flask",
+        "description": "A simple framework for building complex web applications.",
+        "package_manager_url": "https://pypi.org/project/Flask/"
+    },
+    {
+        "name": "Django",
+        "description": "A high-level Python web framework that encourages rapid development and clean, pragmatic design.",
+        "package_manager_url": "https://pypi.org/project/Django/"
+    },
+    {
+        "name": "urllib3",
+        "description": "HTTP library with thread-safe connection pooling, file post, and more.",
+        "package_manager_url": "https://pypi.org/project/urllib3/"
+    },
+    {
+        "name": "Sphinx",
+        "description": "Python documentation generator",
+        "package_manager_url": "https://pypi.org/project/Sphinx/"
+    },
+    {
+        "name": "black",
+        "description": "The uncompromising code formatter.",
+        "package_manager_url": "https://pypi.org/project/black/"
+    },
+    {
+        "name": "torch",
+        "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+        "package_manager_url": "https://pypi.org/project/torch/"
+    },
+    {
+        "name": "ruff",
+        "description": "An extremely fast Python linter and code formatter, written in Rust.",
+        "package_manager_url": "https://pypi.org/project/ruff/"
+    },
+    {
+        "name": "pylint",
+        "description": "python code static checker",
+        "package_manager_url": "https://pypi.org/project/pylint/"
+    },
+    {
+        "name": "click",
+        "description": "Composable command line interface toolkit",
+        "package_manager_url": "https://pypi.org/project/click/"
+    },
+    {
+        "name": "scipy",
+        "description": "Fundamental algorithms for scientific computing in Python",
+        "package_manager_url": "https://pypi.org/project/scipy/"
+    },
+    {
+        "name": "mypy",
+        "description": "Optional static typing for Python",
+        "package_manager_url": "https://pypi.org/project/mypy/"
+    },
+    {
+        "name": "pre-commit",
+        "description": "A framework for managing and maintaining multi-language pre-commit hooks.",
+        "package_manager_url": "https://pypi.org/project/pre-commit/"
+    },
+    {
+        "name": "SQLAlchemy",
+        "description": "Database Abstraction Library",
+        "package_manager_url": "https://pypi.org/project/SQLAlchemy/"
+    },
+    {
+        "name": "flake8",
+        "description": "the modular source code checker: pep8 pyflakes and co",
+        "package_manager_url": "https://pypi.org/project/flake8/"
+    },
+    {
+        "name": "setuptools",
+        "description": "Easily download, build, install, upgrade, and uninstall Python packages",
+        "package_manager_url": "https://pypi.org/project/setuptools/"
+    },
+    {
+        "name": "pillow",
+        "description": "Python Imaging Library (Fork)",
+        "package_manager_url": "https://pypi.org/project/pillow/"
+    },
+    {
+        "name": "pydantic",
+        "description": "Data validation using Python type hints",
+        "package_manager_url": "https://pypi.org/project/pydantic/"
+    },
+    {
+        "name": "rich",
+        "description": "Render rich text, tables, progress bars, syntax highlighting, markdown and more to the terminal",
+        "package_manager_url": "https://pypi.org/project/rich/"
+    },
+    {
+        "name": "aiohttp",
+        "description": "Async http client/server framework (asyncio)",
+        "package_manager_url": "https://pypi.org/project/aiohttp/"
+    },
+    {
+        "name": "protobuf",
+        "description": "Protocol Buffers - Google's data interchange format",
+        "package_manager_url": "https://pypi.org/project/protobuf/"
+    },
+    {
+        "name": "boto3",
+        "description": "The AWS SDK for Python",
+        "package_manager_url": "https://pypi.org/project/boto3/"
+    },
+    {
+        "name": "ipython",
+        "description": "IPython: Productive Interactive Computing",
+        "package_manager_url": "https://pypi.org/project/ipython/"
+    },
+    {
+        "name": "transformers",
+        "description": "State-of-the-art Machine Learning for JAX, PyTorch and TensorFlow",
+        "package_manager_url": "https://pypi.org/project/transformers/"
+    },
+    {
+        "name": "networkx",
+        "description": "Python package for creating and manipulating graphs and networks",
+        "package_manager_url": "https://pypi.org/project/networkx/"
+    },
+    {
+        "name": "psutil",
+        "description": "Cross-platform lib for process and system monitoring in Python.",
+        "package_manager_url": "https://pypi.org/project/psutil/"
+    },
+    {
+        "name": "cryptography",
+        "description": "cryptography is a package which provides cryptographic recipes and primitives to Python developers.",
+        "package_manager_url": "https://pypi.org/project/cryptography/"
+    },
+    {
+        "name": "tqdm",
+        "description": "Fast, Extensible Progress Meter",
+        "package_manager_url": "https://pypi.org/project/tqdm/"
+    },
+    {
+        "name": "opencv-python",
+        "description": "Wrapper package for OpenCV python bindings.",
+        "package_manager_url": "https://pypi.org/project/opencv-python/"
+    },
+    {
+        "name": "sphinx-rtd-theme",
+        "description": "Read the Docs theme for Sphinx",
+        "package_manager_url": "https://pypi.org/project/sphinx-rtd-theme/"
+    },
+    {
+        "name": "PyYAML",
+        "description": "YAML parser and emitter for Python",
+        "package_manager_url": "https://pypi.org/project/PyYAML/"
+    },
+    {
+        "name": "pyarrow",
+        "description": "Python library for Apache Arrow",
+        "package_manager_url": "https://pypi.org/project/pyarrow/"
+    },
+    {
+        "name": "tox",
+        "description": "tox is a generic virtualenv management and test command line tool",
+        "package_manager_url": "https://pypi.org/project/tox/"
+    },
+    {
+        "name": "coverage",
+        "description": "Code coverage measurement for Python",
+        "package_manager_url": "https://pypi.org/project/coverage/"
+    },
+    {
+        "name": "python-dotenv",
+        "description": "Read key-value pairs from a .env file and set them as environment variables",
+        "package_manager_url": "https://pypi.org/project/python-dotenv/"
+    },
+    {
+        "name": "Jinja2",
+        "description": "A very fast and expressive template engine.",
+        "package_manager_url": "https://pypi.org/project/Jinja2/"
+    },
+    {
+        "name": "fastapi",
+        "description": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
+        "package_manager_url": "https://pypi.org/project/fastapi/"
+    },
+    {
+        "name": "redis",
+        "description": "Python client for Redis database and key-value store",
+        "package_manager_url": "https://pypi.org/project/redis/"
+    },
+    {
+        "name": "pytest-cov",
+        "description": "Pytest plugin for measuring coverage.",
+        "package_manager_url": "https://pypi.org/project/pytest-cov/"
+    },
+    {
+        "name": "pytz",
+        "description": "World timezone definitions, modern and historical",
+        "package_manager_url": "https://pypi.org/project/pytz/"
+    },
+    {
+        "name": "certifi",
+        "description": "Python package for providing Mozilla's CA Bundle.",
+        "package_manager_url": "https://pypi.org/project/certifi/"
+    },
+    {
+        "name": "attrs",
+        "description": "Classes Without Boilerplate",
+        "package_manager_url": "https://pypi.org/project/attrs/"
+    },
+    {
+        "name": "discord.py",
+        "description": "A Python wrapper for the Discord API",
+        "package_manager_url": "https://pypi.org/project/discord.py/"
+    },
+    {
+        "name": "typing-extensions",
+        "description": "Backported and Experimental Type Hints for Python 3.8+",
+        "package_manager_url": "https://pypi.org/project/typing-extensions/"
+    },
+    {
+        "name": "grpcio",
+        "description": "HTTP/2-based RPC framework",
+        "package_manager_url": "https://pypi.org/project/grpcio/"
+    },
+    {
+        "name": "Scrapy",
+        "description": "A high-level Web Crawling and Web Scraping framework",
+        "package_manager_url": "https://pypi.org/project/Scrapy/"
+    },
+    {
+        "name": "lxml",
+        "description": "Powerful and Pythonic XML processing library combining libxml2/libxslt with the ElementTree API.",
+        "package_manager_url": "https://pypi.org/project/lxml/"
+    },
+    {
+        "name": "pyspark",
+        "description": "Apache Spark Python API",
+        "package_manager_url": "https://pypi.org/project/pyspark/"
+    },
+    {
+        "name": "jsonschema",
+        "description": "An implementation of JSON Schema validation for Python",
+        "package_manager_url": "https://pypi.org/project/jsonschema/"
+    },
+    {
+        "name": "grpcio-tools",
+        "description": "Protobuf code generator for gRPC",
+        "package_manager_url": "https://pypi.org/project/grpcio-tools/"
+    },
+    {
+        "name": "isort",
+        "description": "A Python utility / library to sort Python imports.",
+        "package_manager_url": "https://pypi.org/project/isort/"
+    },
+    {
+        "name": "PyJWT",
+        "description": "JSON Web Token implementation in Python",
+        "package_manager_url": "https://pypi.org/project/PyJWT/"
+    },
+    {
+        "name": "torchvision",
+        "description": "image and video datasets and models for torch deep learning",
+        "package_manager_url": "https://pypi.org/project/torchvision/"
+    },
+    {
+        "name": "keras",
+        "description": "Multi-backend Keras.",
+        "package_manager_url": "https://pypi.org/project/keras/"
+    },
+    {
+        "name": "scikit-image",
+        "description": "Image processing in Python",
+        "package_manager_url": "https://pypi.org/project/scikit-image/"
+    },
+    {
+        "name": "six",
+        "description": "Python 2 and 3 compatibility utilities",
+        "package_manager_url": "https://pypi.org/project/six/"
+    },
+    {
+        "name": "Faker",
+        "description": "Faker is a Python package that generates fake data for you.",
+        "package_manager_url": "https://pypi.org/project/Faker/"
+    },
+    {
+        "name": "httpx",
+        "description": "The next generation HTTP client.",
+        "package_manager_url": "https://pypi.org/project/httpx/"
+    },
+    {
+        "name": "openai",
+        "description": "The official Python library for the openai API",
+        "package_manager_url": "https://pypi.org/project/openai/"
+    },
+    {
+        "name": "build",
+        "description": "A simple, correct Python build frontend",
+        "package_manager_url": "https://pypi.org/project/build/"
+    },
+    {
+        "name": "python-dateutil",
+        "description": "Extensions to the standard Python datetime module",
+        "package_manager_url": "https://pypi.org/project/python-dateutil/"
+    },
+    {
+        "name": "GitPython",
+        "description": "GitPython is a Python library used to interact with Git repositories",
+        "package_manager_url": "https://pypi.org/project/GitPython/"
+    },
+    {
+        "name": "xarray",
+        "description": "N-D labeled arrays and datasets in Python",
+        "package_manager_url": "https://pypi.org/project/xarray/"
+    },
+    {
+        "name": "watchdog",
+        "description": "Filesystem events monitoring",
+        "package_manager_url": "https://pypi.org/project/watchdog/"
+    },
+    {
+        "name": "gunicorn",
+        "description": "WSGI HTTP Server for UNIX",
+        "package_manager_url": "https://pypi.org/project/gunicorn/"
+    },
+    {
+        "name": "typer",
+        "description": "Typer, build great CLIs. Easy to code. Based on Python type hints.",
+        "package_manager_url": "https://pypi.org/project/typer/"
+    },
+    {
+        "name": "h5py",
+        "description": "Read and write HDF5 files from Python",
+        "package_manager_url": "https://pypi.org/project/h5py/"
+    },
+    {
+        "name": "streamlit",
+        "description": "A faster way to build and share data apps",
+        "package_manager_url": "https://pypi.org/project/streamlit/"
+    },
+    {
+        "name": "twine",
+        "description": "Collection of utilities for publishing packages on PyPI",
+        "package_manager_url": "https://pypi.org/project/twine/"
+    },
+    {
+        "name": "validators",
+        "description": "Python Data Validation for Humans\u2122",
+        "package_manager_url": "https://pypi.org/project/validators/"
+    },
+    {
+        "name": "structlog",
+        "description": "Structured Logging for Python",
+        "package_manager_url": "https://pypi.org/project/structlog/"
+    },
+    {
+        "name": "datasets",
+        "description": "HuggingFace community-driven open-source library of datasets",
+        "package_manager_url": "https://pypi.org/project/datasets/"
+    },
+    {
+        "name": "Cython",
+        "description": "The Cython compiler for writing C extensions in the Python language.",
+        "package_manager_url": "https://pypi.org/project/Cython/"
+    },
+    {
+        "name": "sanic",
+        "description": "A web server and web framework that's written to go fast. Build fast. Run fast.",
+        "package_manager_url": "https://pypi.org/project/sanic/"
+    },
+    {
+        "name": "joblib",
+        "description": "Lightweight pipelining with Python functions",
+        "package_manager_url": "https://pypi.org/project/joblib/"
+    },
+    {
+        "name": "pip",
+        "description": "The PyPA recommended tool for installing Python packages.",
+        "package_manager_url": "https://pypi.org/project/pip/"
+    },
+    {
+        "name": "ray",
+        "description": "Ray provides a simple, universal API for building distributed applications.",
+        "package_manager_url": "https://pypi.org/project/ray/"
+    },
+    {
+        "name": "bandit",
+        "description": "Security oriented static analyser for python code.",
+        "package_manager_url": "https://pypi.org/project/bandit/"
+    },
+    {
+        "name": "orjson",
+        "description": "Fast, correct Python JSON library supporting dataclasses, datetimes, and numpy",
+        "package_manager_url": "https://pypi.org/project/orjson/"
+    },
+    {
+        "name": "PyGithub",
+        "description": "Use the full Github API v3",
+        "package_manager_url": "https://pypi.org/project/PyGithub/"
+    },
+    {
+        "name": "Werkzeug",
+        "description": "The comprehensive WSGI web application library.",
+        "package_manager_url": "https://pypi.org/project/Werkzeug/"
+    },
+    {
+        "name": "docker",
+        "description": "A Python library for the Docker Engine API.",
+        "package_manager_url": "https://pypi.org/project/docker/"
+    },
+    {
+        "name": "celery",
+        "description": "Distributed Task Queue.",
+        "package_manager_url": "https://pypi.org/project/celery/"
+    },
+    {
+        "name": "uvicorn",
+        "description": "The lightning-fast ASGI server.",
+        "package_manager_url": "https://pypi.org/project/uvicorn/"
+    },
+    {
+        "name": "dask",
+        "description": "Parallel PyData with Task Scheduling",
+        "package_manager_url": "https://pypi.org/project/dask/"
+    },
+    {
+        "name": "importlib-metadata",
+        "description": "Read metadata from Python packages",
+        "package_manager_url": "https://pypi.org/project/importlib-metadata/"
+    },
+    {
+        "name": "pycryptodome",
+        "description": "Cryptographic library for Python",
+        "package_manager_url": "https://pypi.org/project/pycryptodome/"
+    },
+    {
+        "name": "types-setuptools",
+        "description": "Typing stubs for setuptools",
+        "package_manager_url": "https://pypi.org/project/types-setuptools/"
+    },
+    {
+        "name": "tornado",
+        "description": "Tornado is a Python web framework and asynchronous networking library, originally developed at FriendFeed.",
+        "package_manager_url": "https://pypi.org/project/tornado/"
+    },
+    {
+        "name": "wheel",
+        "description": "A built-package format for Python",
+        "package_manager_url": "https://pypi.org/project/wheel/"
+    },
+    {
+        "name": "peewee",
+        "description": "a little orm",
+        "package_manager_url": "https://pypi.org/project/peewee/"
+    },
+    {
+        "name": "astropy",
+        "description": "Astronomy and astrophysics core library",
+        "package_manager_url": "https://pypi.org/project/astropy/"
+    },
+    {
+        "name": "pyinstaller",
+        "description": "PyInstaller bundles a Python application and all its dependencies into a single package.",
+        "package_manager_url": "https://pypi.org/project/pyinstaller/"
+    },
+    {
+        "name": "Pygments",
+        "description": "Pygments is a syntax highlighting package written in Python.",
+        "package_manager_url": "https://pypi.org/project/Pygments/"
+    },
+    {
+        "name": "pyparsing",
+        "description": "pyparsing module - Classes and methods to define and execute parsing grammars",
+        "package_manager_url": "https://pypi.org/project/pyparsing/"
+    }
+]
