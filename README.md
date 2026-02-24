@@ -28,7 +28,7 @@ pip install -r requirements.txt
 
 The detailed implementation of PackMonitor can be found in `HFuzzer/Framework/packmonitor_generate.py`
 
-## 🧪 HFuzzer & Package4U
+## 🧪 Evaluation
 
 This repository contains two main components for testing package hallucination:
 
@@ -45,7 +45,6 @@ To use HFuzzer:
    - Configure the API in `HFuzzer/Framework/Tool.py` 
 
 3. **Run Baseline Scripts**:
-
 ```bash
 cd HFuzzer/script
 
@@ -58,7 +57,6 @@ python vanilla.py
 ```
 
 4. **Run PackMonitor in HFuzzer**
-
 We further integrate our method into HFuzzer for evaluating package hallucination.
 
 To run PackMonitor on HFuzzer, execute:
@@ -69,6 +67,7 @@ python packmonitor.py
 ### Package4U Configuration
 
 To test package hallucination with Package4U:
+
 1. **Download Data**:
    - Download the data for Package4U testing (JavaScript and Python code) and save it in `Package4U/PackageHallucination/Data/` directory
    - You can download the data from [here](https://zenodo.org/records/14676377)
@@ -88,7 +87,7 @@ python run_test.py DeepSeek_1B --language Python
 python run_test.py DeepSeek_1B --language Javascript
 ```
 
-## Notes
+## ✨Notes
 
 - Ensure you have adequate GPU resources for local model deployment
 - Cloud API may require additional configuration (keys, endpoints etc.)
