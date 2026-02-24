@@ -4,7 +4,8 @@ This repository contains the code for our paper **PackMonitor: Enabling Zero Pac
 
 ## 🔎 Overview
 
-In this paper, we propose **PackMonitor**, a novel framework capable of rigorously eliminating package hallucinations in Large Language Models. Operating as a training-free and plug-and-play solution, PackMonitor leverages the deterministic nature of package validity to enforce strict compliance during the decoding process.
+We propose **PackMonitor**, a novel framework capable of rigorously eliminating package hallucinations in Large Language Models. Operating as a training-free and plug-and-play solution, PackMonitor leverages the deterministic nature of package validity to enforce strict compliance during the decoding process.
+
 ![overview](./overview.png)
 
 ## 📦 Installation
